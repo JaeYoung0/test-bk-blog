@@ -1,1 +1,0 @@
-import{ab as e,aa as o,a9 as a}from"./index-B7OCQ0xp.js";const t="PostsResponseType",r=e({dataType:t,path:"/posts/"}),c=a({dataType:t,path:s=>`/posts/${s}/`}),n=e({dataType:t,path:"/posts/export/"}),u=o({method:"DELETE",path:s=>`/posts/${s}/`});export{u as a,n as b,c as g,r as u};
