@@ -1,0 +1,21 @@
+# Ghost
+versions/
+current
+content/data/
+content/images/
+content/logs/
+content/adapters/
+content/apps/
+content/files/
+content/media/
+content/public/
+content/settings/
+content/themes/
+.ghost/
+.ghost-cli
+.ghostpid
+*.log
+node_modules/
+
+# Export
+output/
